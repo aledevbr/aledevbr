@@ -19,6 +19,7 @@
 [![Grupo Microservices Brasil no Telegram](https://img.shields.io/endpoint?style=flat&label=Microservices%20Brasil&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fmicroservicesbr)](https://t.me/microservicesbr)
 
 #### Algumas estatísticas:
+<img src="https://komarev.com/ghpvc/?username=aledevbr&label=Visualizações+de+perfil&style=flat" alt="aledevbr" />
 <p align="justify">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aledevbr&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green" />
 </p>
