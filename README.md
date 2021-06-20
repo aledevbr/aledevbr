@@ -6,20 +6,24 @@
 * Possuo um blog no endereço [ale.dev.br](https://ale.dev.br), onde escrevo alguns artigos de coisas que deram trabalho pra fazer (se tornando um lembrete de como fazer novamente)
 
 #### Onde me encontrar nas redes sociais:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aledevbr)](https://github.com/aledevbr)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aledevbr/)](https://www.linkedin.com/in/aledevbr/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@aledevbr)](https://medium.com/@aledevbr)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/aledevbr/)](https://www.instagram.com/aledevbr/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/aledevbr/)](https://www.facebook.com/aledevbr/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/aledevbr)](https://twitter.com/aledevbr)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/aledevbr)](https://github.com/aledevbr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aledevbr/)](https://www.linkedin.com/in/aledevbr/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@aledevbr)](https://medium.com/@aledevbr)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/aledevbr/)](https://www.instagram.com/aledevbr/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/aledevbr/)](https://www.facebook.com/aledevbr/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/aledevbr)](https://twitter.com/aledevbr)
+
+#### Comunidades que administro no Telegram:
+[![Telegram Badge](https://img.shields.io/endpoint?style=flat&label=Blazor%20Brasil&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fblazorbr)](https://t.me/blazorbr)
 <br/>
-<br/>
-<br/>
+[![Telegram Badge](https://img.shields.io/endpoint?style=flat&label=Microservices%20Brasil&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fmicroservicesbr)](https://t.me/microservicesbr)
+
+#### Algumas estatísticas:
 <p align="justify">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aledevbr&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green" />
 </p>
 <p align="justify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aledevbr&layout=default&count_private=true&langs_count=10&show_icons=true&include_all_commits=true&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aledevbr&custom_title=Linguagens%20mais%20usadas&layout=default&count_private=true&langs_count=10&show_icons=true&include_all_commits=true&theme=blue-green" />
 </p>
 
 
