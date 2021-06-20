@@ -1,8 +1,8 @@
-### Olá, eu sou o Alexandre Silva, fundador da Alesil Tecnologia!
+### Olá, eu sou o Alexandre Silva, fundador da [Alesil Tecnologia](https://alesil.com.br)!
 
 * Trabalho com desenvolvimento por mais ou menos 35 anos (desde as telinhas verdes)
-* Meu forte nesse século é o Dotnet C# (principalmente Back-end)
-* Estou estudando bastante o Blazor (principalmente o wasm - web assembly)
+* Meu forte nesse século é o [Dotnet](https://dotnet.microsoft.com) C# (principalmente Back-end)
+* Estou estudando bastante o [Blazor](https://blazor.net) (principalmente o wasm - web assembly)
 * Possuo um blog no endereço [ale.dev.br](https://ale.dev.br), onde escrevo alguns artigos de coisas que deram trabalho pra fazer (se tornando um lembrete de como fazer novamente)
 
 #### Onde me encontrar nas redes sociais:
