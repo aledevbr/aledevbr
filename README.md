@@ -14,6 +14,7 @@
 [![Twitter @aledevbr](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/aledevbr)](https://twitter.com/aledevbr)
 
 #### Comunidades que administro no Telegram:
+[![Grupo MAUI Brasil no Telegram](https://img.shields.io/endpoint?style=flat&label=Maui%20Brasil&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fmauibr)](https://t.me/mauibr)
 [![Grupo Blazor Brasil no Telegram](https://img.shields.io/endpoint?style=flat&label=Blazor%20Brasil&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fblazorbr)](https://t.me/blazorbr)
 <br/>
 [![Grupo Microservices Brasil no Telegram](https://img.shields.io/endpoint?style=flat&label=Microservices%20Brasil&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Fmicroservicesbr)](https://t.me/microservicesbr)
