@@ -26,10 +26,8 @@
 <p align="justify">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aledevbr&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green" />
 </p>
-<p align="justify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aledevbr&custom_title=Linguagens%20mais%20usadas&layout=default&count_private=true&langs_count=10&show_icons=true&include_all_commits=true&theme=blue-green" />
-</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aledevbr&layout=donut&langs_count=10&theme=blue-green)]()
 
 <!--
 **aledevbr/aledevbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
